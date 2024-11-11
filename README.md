@@ -1,6 +1,6 @@
 ---
+# PHP E-commerce Platform - Clothing Store ![Open Source](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
 
-# PHP E-commerce Platform - Clothing Store
 
 A PHP-based e-commerce platform designed for selling clothes. This project provides a fully functional online store where users can browse products, add them to a shopping cart, place orders, and receive support via a question-based chatbot.
 The system includes features like user authentication, order management, product history, product comments, and a fully functional admin panel to manage products, orders, and users.
